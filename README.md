@@ -23,8 +23,8 @@ This repository contains lab assignments for DSE 3141 (Deep Learning) course, or
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/adwaiy2912/DL-Lab.git
+   cd DL-Lab
    ```
 
 2. **(Optional) Create a virtual environment**:
