@@ -1,4 +1,4 @@
-# Deep Learning Lab Assignments
+# Deep Learning Lab
 
 This repository contains lab assignments for DSE 3141 (Deep Learning) course, organized week by week.
 
